@@ -1,34 +1,37 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+# Chess Game
 
-First, run the development server:
+Chess Game é um começo de um projeto que está sendo desenvolvido, será uma plataforma para jogar Xadrez, tanto offline quando online e a onde também será possível análisar suas partidades usando engine, o projeto ainda está no começo porém o progresso está bem encaminhado.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+[EN] Chess Game is the beginning of a project that is being developed, it will be a platform to play Chess, both offline and online and where it will also be possible to analyze your games using an engine, the project is still in its infancy but progress is well underway.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Como rodar o projeto
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+https://chess-game-ashy.vercel.app/
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Linha de comando:
 
-## Learn More
+1. Faça download do projeto
+2. abra o cmd dentro da raíz do projeto
+3. Instale as dependências com `npm install`
+4. rode o projeto com `npm run dev`
+5. Aprecie 🚀
 
-To learn more about Next.js, take a look at the following resources:
+## Home
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Home Screenshot](./public/screenshot/home.png)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Feedback
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Se você tiver algum feedback, por favor me informe para eu evoluir meus conhecimentos.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+[EN] If you have any feedback, please let me know so I can improve my knowledge.
+
+
+## Contribuindo
+
+Contribuições são sempre bem-vindas!
+
+[EN] Contributions are always welcome!
+
